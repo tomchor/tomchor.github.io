@@ -6,19 +6,19 @@ permalink: /research/
 ---
 
 
-*Overview:* I have started my career doing theoretical and field work in my Undergrad and Master's
+I started my career doing theoretical and field work in my Undergrad and Master's
 education, and progresssed torwards numerical research in my PhD. I've worked on Hydrology,
 Atmospheric turbulence (boundary layer meteorology) and Oceanic flows (submesoscale phenomena and
-boundary layer processes). Currently my research is mainly based on numerical tools such as [Large
-eddy simulations](https://en.wikipedia.org/wiki/Large_eddy_simulation).
+boundary layer processes). Currently my research lies in the intersection between numerical tools
+such as [Large eddy simulations](https://en.wikipedia.org/wiki/Large_eddy_simulation) and physical
+oceanography.
 
 
 
 
 ## Submesoscale instabilities in the ocean bottom boundary layer
 
-
-![Headland paper](/assets/images/PV_bathymetry_R1F008.png)
+<video autoplay muted loop src="/assets/animations/bathymetry_3d_PV_NPN-R1F008-f2.mp4" width="100%" controls></video>
 
 I use Large-eddy simulations to investigate the impact of submesoscale dynamics in bottom boundary
 layer flows. I've given specific focus to Centrifugal-Symmetric instabilities, which are thought to
@@ -34,7 +34,7 @@ You can find relevant publications
 
 ## Vertical mixing of materials in the upper ocean
 
-![GRL paper](/assets/images/GRL2019-panels.png)
+<video autoplay muted loop src="/assets/animations/anim_panels_long.mp4" width="100%" controls></video>
 
 I use Large-eddy simulations to explore small
 scale turbulence in the Oceanic mixed layer. Focus is given to the transport of passive scalars
