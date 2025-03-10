@@ -17,7 +17,7 @@ Selected publications
 
 Chor, Tomas, Jacob Wenegrat. 2024. "The turbulent dynamics of anticyclonic submesoscale headland
 wakes." Journal of Physical Oceanography. Accepted for publication. [[Pre-print
-here](/assets/pdf/chor.wenegrat2024preprint--headland.pdf)]
+here](/assets/pdf/chor.wenegrat2025preprint--headland.pdf)]
 
 Chor, Tomas, Jacob Wenegrat, and John Taylor. 2022. "Insights into the Mixing Efficiency of
 Submesoscale Centrifugal-Symmetric Instabilities." Journal of Physical Oceanography.
