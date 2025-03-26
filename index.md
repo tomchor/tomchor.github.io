@@ -12,13 +12,13 @@ foci are small- and submeso-scale turbulence, which I investigate with a numeric
 large-eddy simulations). I'm also a big believer in community-driven open-source software as a way
 to improve the reproducibility of results in science.
 
-I'm currently working as a postdoctoral researcher at the University of Maryland's Atmospheric and
-Oceanic Science department in [Dr. Jacob Wenegrat](https://wenegrat.github.io/)'s group. 
+I'm currently sharing my time between the University of Maryland's Atmospheric and Oceanic Science
+department (in [Dr. Jacob Wenegrat](https://wenegrat.github.io/)'s group), and [atdepth
+MRV](https://www.atdepth.org/).
 
 
 For an in-depth list of talks, awards, publications, skills, etc., please check my [curriculum
 vitae](https://github.com/tomchor/tomchor.github.io/raw/master/assets/pdf/phd-tomas-chor3.pdf).
-
 
 
 ## Contact
