@@ -15,8 +15,8 @@ page](https://scholar.google.com/citations?user=0uQC6kkAAAAJ&hl=en&oi=ao>)
 Selected publications
 ---------------------
 
-Chor, Tomas, Jacob Wenegrat, Greg Wagner. 2025. "Turbulent mixing and dissipation around rough seamounts."
-Under review for the Journal of Physical Oceanography. https://doi.org/10.22541/essoar.176659936.64523492/v1. [[PDF here](/assets/pdf/chor.ea2026preprint--turbulent-mixing.pdf)]
+Chor, Tomas, Jacob Wenegrat, Greg L. Wagner. 2026. "Turbulent mixing and dissipation around rough seamounts."
+Geophysical Research Letters. https://doi.org/10.1029/2025GL121312. [[PDF here](http://dx.doi.org/10.1029/2025GL121312)]
 
 Chor, Tomas, Jacob Wenegrat. 2025. "The turbulent dynamics of anticyclonic submesoscale headland
 wakes." Journal of Physical Oceanography. https://doi.org/10.1175/JPO-D-24-0139.1. [[PDF here](/assets/pdf/chor.wenegrat2025--the-turbulent-dynamics.pdf)]
